@@ -43,9 +43,9 @@ bun dev
 ## Scripts disponibles
 
 ```bash
-bun dev :  Inicia el servidor de desarrollo.
+bun dev  Inicia el servidor de desarrollo.
 
-bun build :  Genera la versión optimizada del proyecto para producción.
+bun build  Genera la versión optimizada del proyecto para producción.
 
-bun start :  Inicia la aplicación en producción.
+bun start Inicia la aplicación en producción.
 
