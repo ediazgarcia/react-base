@@ -42,10 +42,10 @@ bun dev
 
 ---
 
-Scripts disponibles
+## Scripts disponibles
 
-- [bun dev] (): Inicia el servidor de desarrollo.
-- [bun build] (): Genera la versión optimizada del proyecto para producción.
-- [bun start] (): Inicia la aplicación en producción.
+- [bun dev] () Inicia el servidor de desarrollo.
+- [bun build] () (Genera la versión optimizada del proyecto para producción)
+- [bun start] () (Inicia la aplicación en producción)
 
 ---
