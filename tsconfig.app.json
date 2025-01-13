@@ -60,7 +60,7 @@
         "src/utils/*"
       ],
       "@routes/*": [
-        "src/routes/*"
+        "src/router/*"
       ]
     }
   },
