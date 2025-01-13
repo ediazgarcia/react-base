@@ -48,7 +48,7 @@
         "src/pages/*"
       ],
       "@services/*": [
-        "src/services/*"
+        "src/api/*"
       ],
       "@store/*": [
         "src/store/*"

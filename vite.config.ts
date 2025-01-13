@@ -13,11 +13,11 @@ export default defineConfig({
       '@ui': path.resolve(__dirname, './src/components/ui'),
       '@hooks': path.resolve(__dirname, './src/hooks'),
       '@pages': path.resolve(__dirname, './src/pages'),
-      '@services': path.resolve(__dirname, './src/services'),
+      '@api': path.resolve(__dirname, './src/api'),
       '@store': path.resolve(__dirname, './src/store'),
       '@types': path.resolve(__dirname, './src/types'),
       '@utils': path.resolve(__dirname, './src/utils'),
-      '@routes': path.resolve(__dirname, './src/router'),
+      '@router': path.resolve(__dirname, './src/router'),
     },
   },
   define: {

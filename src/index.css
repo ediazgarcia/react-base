@@ -6,6 +6,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 /* CSS Reset */
 *,
 *::before,
@@ -26,7 +27,7 @@ body {
   color: #111827;
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
-  -webkit-font-smoothing: antialiased; /* Mejora la legibilidad de la fuente */
+  -webkit-font-smoothing: antialiased; 
   -moz-osx-font-smoothing: grayscale;
 }
 
@@ -36,7 +37,7 @@ main {
   flex-direction: column;
   justify-content: center;
   width: 100vw;
-  padding: 20px; /* Espaciado adicional */
+  padding: 20px; 
 }
 
 input {
